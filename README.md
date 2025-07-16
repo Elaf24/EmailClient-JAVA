@@ -44,12 +44,30 @@ A modern, feature-rich desktop email client built with <img src="https://img.shi
 
 ## 🖥️ Screenshots
 
+## 🖥️ Screenshots
+
+### 🔐 Login
 <p align="center">
-  <img src="https://github.com/Elaf24/EmailClient/assets/110555263/7f2889f6-acc1-438d-b1f7-42111dbee10b" alt="Main Window" width="400"/>
-  <img src="https://github.com/Elaf24/EmailClient/assets/110555263/5af22d5f-1679-4628-a768-13f9701ddb82" alt="Compose Email" width="400"/>
-  <img src="https://github.com/Elaf24/EmailClient/assets/110555263/acab9dd1-537b-4780-a1e0-c2422cf31f4d" alt="Options Window" width="400"/>
-  <img src="https://github.com/Elaf24/EmailClient/assets/110555263/727facbe-e6dd-48d9-aa6b-f34e81df4dcf" alt="Login Window" width="400"/>
+ 
+  <img src="https://github.com/Elaf24/EmailClient/assets/110555263/7f2889f6-acc1-438d-b1f7-42111dbee10b" alt="Main Window" width="600"/>
 </p>
+
+### 📥 Inbox View
+<p align="center">
+  <img src="https://github.com/Elaf24/EmailClient/assets/110555263/5af22d5f-1679-4628-a768-13f9701ddb82" alt="Compose Email" width="600"/>
+</p>
+
+### ✉️ Email Drafting View
+<p align="center">
+   <img src="https://github.com/Elaf24/EmailClient/assets/110555263/acab9dd1-537b-4780-a1e0-c2422cf31f4d" alt="Options Window" width="600"/>
+</p>
+
+### ⚙️ Settings Menu
+<p align="center">
+  
+  <img src="https://github.com/Elaf24/EmailClient/assets/110555263/727facbe-e6dd-48d9-aa6b-f34e81df4dcf" alt="Login Window" width="600"/>
+</p>
+
 
 ---
 

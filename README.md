@@ -5,7 +5,7 @@ A modern, feature-rich desktop email client built with <img src="https://img.shi
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Desktop-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
+  
 </p>
 
 ---

@@ -13,12 +13,13 @@ A modern, feature-rich desktop email client built with <img src="https://img.shi
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/JavaFX-1B6AC6?style=for-the-badge&logo=java&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/JavaMail-007396?style=for-the-badge&logo=maildotru&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/JavaFX-3776AB?style=for-the-badge&logo=javafx&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/JavaMail-007396?style=for-the-badge&logo=mailchimp&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/FXML-3776AB?style=for-the-badge&logo=xml&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28"/>
 </p>
+
 
 - **Java 11+** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="22"/>
 - **JavaFX** (UI, FXML, CSS) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/javafx-original.svg" width="22"/>
@@ -32,7 +33,7 @@ A modern, feature-rich desktop email client built with <img src="https://img.shi
 ## 🚀 Features
 
 - <img src="https://img.icons8.com/fluency/24/000000/multiple-users.png"/> **Multi-Account Support**: Add, remove, and switch between multiple email accounts.
-- <img src="https://img.icons8.com/fluency/24/000000/lock-2.png"/> **Persistent Login**: Securely saves credentials (with encoding) for seamless startup.
+- <img src="https://img.icons8.com/fluency/24/000000/lock-2.png"/> **Persistent Login**: Securely saves credentials  for seamless startup.
 - <img src="https://img.icons8.com/fluency/24/000000/inbox.png"/> **Inbox Management**: Browse folders, view messages, mark as read/unread, delete, and view details.
 - <img src="https://img.icons8.com/fluency/24/000000/compose.png"/> **Compose & Send Emails**: Rich text editor, attachments, select sender account.
 - <img src="https://img.icons8.com/fluency/24/000000/attach.png"/> **Attachments**: Attach files to outgoing emails, download and open received attachments.
@@ -42,7 +43,7 @@ A modern, feature-rich desktop email client built with <img src="https://img.shi
 
 ---
 
-## 🖥️ Screenshots
+
 
 ## 🖥️ Screenshots
 
